@@ -1,0 +1,6 @@
+pydub
+speechrecognition
+srt
+shutil
+datetime
+textwrap
