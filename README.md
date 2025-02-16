@@ -11,7 +11,7 @@
 ## **Installation & Setup**  
 ### **1. Clone the Repository**  
 ```bash
-git clone https://github.com/yourusername/Sugar-Auto_SRT.git
+git clone https://github.com/Sugarcube08/Sugar-Auto_SRT.git
 cd Sugar-Auto_SRT
 ```
 ### **2. Install Dependencies**  
