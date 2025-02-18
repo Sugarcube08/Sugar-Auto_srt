@@ -88,13 +88,16 @@ Ensure FFmpeg is installed and added to **system PATH**.
 - Increase `min_silence_len` for better splits  
 - Try **other STT engines** (e.g., `Vosk`)  
 
+
+
 ---
-#Made with ❤️ by SugarCube
+
+#Made with ❤️ by SugarCube.#
 ---
+Feel free to customize the repository and use it for your own bulk audio volume adjustments! 😄🎶
+
 ---
 ## ☕ Support Me
-If you like this project, consider buying me
- a coffee!
-[![Buy Me a Coffee](https://img.shields.io/b
-adge/Buy%20Me%20a%20Coffee-Support%20Me-orange?style=flat-square&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/sugarcube08)
+If you like this project, consider buying me a coffee!
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Me-orange?style=flat-square&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/sugarcube08)
 ---
