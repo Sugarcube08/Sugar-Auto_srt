@@ -92,7 +92,7 @@ Ensure FFmpeg is installed and added to **system PATH**.
 
 ---
 
-#Made with ❤️ by SugarCube.#
+## Made with ❤️ by SugarCube.
 ---
 Feel free to customize the repository and use it for your own bulk audio volume adjustments! 😄🎶
 
